@@ -160,6 +160,32 @@ period of 5 days.
 SVP( removal_of_inactive_TU, 3, 0.66, 5 );
 ----
 
+
+The TU oversight committee
+--------------------------
+
+In addition to their usual TU duties, TUs may also belong to an oversight
+committee. The oversight committee is in charge of reviewing the correct
+participation of its fellow TUs. Although the oversight committee is not vested
+with any power to act on any violation or lack of participation, they may use
+the mechanisms outlined above. 
+
+A TU may be elected to participate in the oversight committee by announcing
+their application to the
+https://mailman.archlinux.org/mailman/listinfo/aur-general[aur-general]
+mailing list.
+
+After announcing their application, a discussion period of 7 days, a quorum
+of 66%, and a voting period of 7 days.
+
+----
+SVP( oversight_committee_membership, 7, 0.66, 7 );
+----
+
+
+
+
+
 Amendment of Bylaws
 -------------------
 
